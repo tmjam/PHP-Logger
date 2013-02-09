@@ -1,0 +1,8 @@
+[DEBUG][2013-02-08 22:49:14]	testing logging
+[ERROR][2013-02-08 22:49:14]	Log caught an error
+[DEBUG][2013-02-08 22:51:09]	testing logging
+[DEBUG][2013-02-08 22:51:09]	testing logging
+[ERROR][2013-02-08 22:51:09]	Log caught an error
+[ERROR][2013-02-08 22:51:09]	Log caught an error
+[DEBUG][2013-02-08 22:51:09]	testing logging
+[ERROR][2013-02-08 22:51:09]	Log caught an error

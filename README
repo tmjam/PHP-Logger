@@ -1,1 +1,4 @@
-This project can be used in any existing php projects to have a seperate logging mechanism. It is intended to allow users to have their own style of logging mechanism.
+This project can be used in any existing php projects to have a separate logging mechanism. It is intended to allow users to have their own style of logging mechanism.
+
+
+February 9, 2013 8:49 AM: Updated different log types and formatting log messages. Work in progress !!
